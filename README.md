@@ -1,5 +1,5 @@
 1. The architecture that I have used is MVP, so that it is easier to test.
-2. The MainActivityView defines the interface that provides the functionality for this app. We can use this to guide the TDD. So, first, we create a test called, printInitGame, which fails. We then write the code for it until it passes and then refactor the code, as required.
+2. The MainScreenContract defines the interface that provides the functionality for this app. We can use this to guide the TDD. So, first, we create a test called, printInitGame, which fails. We then write the code for it until it passes and then refactor the code, as required.
 3. I have used interfaces ( e.g. for the activity , we present instead, to the presenter, an activityView), since, this is more fully testable, easily extensible, complies with best object-oriented practices ( SOLID ). Explanation: If we pass an instance of the activity through to the presenter, then the presenter then
 4. knows about the activity, then if the activity is complicated, and if we write a test for the presenter, then we have to write a mock version of the activity, which is difficult to do, so, we give the presenter an interface, then the presenter doesn’t know who implements the interface, and doesn’t care , and the test doesn’t care either, but the test can control and examine the view, to check if certain things have passed/failed.
 5. This architecture facilitates TDD. Why because in TDD we follow 3 steps, 1) Write a failing test,
@@ -12,8 +12,8 @@
 12. We can use mockito to write some unit tests; due to time constraints, I have left them out; though, the structure is there for a good portion of the app to be unit tested.
 13. We can also do unit test for network behaviour. We could use Mockery or mockwebserver or another library.
 14. I used butterknife for convenience, which is then converted into an index, again due to time constraints. I would have preferred to use 2D array to represent the positions.
-15. There may be some functions that I have kept, but are unused ( currently ). Due to time constraints, otherwise, I may refactor the interface, MainActivityView.
-16. Again, due to time constraints, otherwise I would have revisited the UI aspect.
-17. Instrumentation Test, checkOneWholeGame, passed.
-18. It uses the following libraries: Dagger 2, retrofit 2, okhttp 3, gson, butterknife, rxJava 2, espresso
-19. I've added one instrumentation test; which does one complete game.
+15. There may be some functions that I have kept, but are unused ( currently ). Due to time constraints, otherwise, I may refactor the interface, MainScreenContract.
+16. Again, due to time constraints, otherwise I would have revisited the UI aspect ( eg use icons for the X and O).
+17. Instrumentation Test used, checks One Whole Game, and it passed.
+18. It uses the following libraries: Dagger 2, retrofit 2, okhttp 3, gson, butterknife, rxJava 2, espresso.
+
