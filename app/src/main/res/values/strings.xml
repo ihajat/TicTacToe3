@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe3</string>
+    <string name="new_game_started">New Game started</string>
+    <string name="do_you_want_start_new_game">Do you want to start a new game?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="game_complete_draw">Game Complete: Draw!</string>
+    <string name="game_complete_winner">"Game Complete: Player "</string>
+    <string name="wins">" Wins!"</string>
+    <string name="error">"Error "</string>
+</resources>

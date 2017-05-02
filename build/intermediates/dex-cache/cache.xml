@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_0de850d7d9d979ad9ee77d2255eecb3f2c05309e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_d717029d13b0e7f2d57d30da94de5f0520e20564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_35ce151b4228485c0ad32f0e384b3716df1d41d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/javax.inject-1_464628a5b74cc0288a62158b8b40b762665b81d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/dagger-2.8_7fe661a81fc374d6eb457823ba9462445132c23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_ed0d91efb8af59ddf0724bdf3feb16c816ba3a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_4ce1ee257f8d87844e09de01996679c74985a703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_de00c759853b2264fa5e607506c870489cc733d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/rxjava-2.0.1_0e6536ec23cbb6050c68a116aed177cbbbdd17e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_7511dbc6887a4c1f22db48333916401230f1db87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/gson-2.7_95843d7dbe1687123fe28423d1169f98e2987007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_f13ed48cefcfbb70abcde597e99f33a94c6b02da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/okio-1.8.0_24f023edf3da04c3446c69eab858c71d2e2e035f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/iqbalhajat/AndroidStudioProjects/TicTacToe3/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_373bce1c52db5785c696f88a8825773e2549c6e4.jar" />
+    </item>
+
+</items>
