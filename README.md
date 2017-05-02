@@ -14,7 +14,6 @@
 14. I used butterknife for convenience, which is then converted into an index, again due to time constraints. I would have preferred to use 2D array to represent the positions.
 15. There may be some functions that I have kept, but are unused ( currently ). Due to time constraints, otherwise, I may refactor the interface, MainActivityView.
 16. Again, due to time constraints, otherwise I would have revisited the UI aspect.
-17. Again, due to time constraints, otherwise I would have added Dagger 2.
-18. Instrumentation Test, checkOneWholeGame, passed.
-19. It uses the following libraries: Dagger 2, retrofit 2, okhttp 3, gson, butterknife, rxJava 2, espresso
-20. I've added one instrumentation test; which does one complete game.
+17. Instrumentation Test, checkOneWholeGame, passed.
+18. It uses the following libraries: Dagger 2, retrofit 2, okhttp 3, gson, butterknife, rxJava 2, espresso
+19. I've added one instrumentation test; which does one complete game.
