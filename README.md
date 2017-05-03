@@ -9,7 +9,7 @@
 9. The AI Player web service has a bug ( I believe ) . It doesn’t ever return value “BOTTOM:RIGHT”
 10. Since, the AI Player is nothing more than a random generator of possible values, therefore, it has to be called several times, to ensure it doesn’t return a value that is already taken. There are a few ways this can be done. Solution 1) If retrofit was used, then onResponse, we would have to check the return value, and then repeat the call, if the position is already used. 2) Use rxJava. We can use rxJava, to continually emit, until we have a value that is valid. This is the more elegant solution and the solution I used. I may have had to use back-pressure, but, it seems ok without it.
 11. We can use mockito to write some unit tests; due to time constraints, I have left them out; though, the structure is there for a good portion of the app to be unit tested.
-12. We can also do unit test for network behaviour. We could use Mockery or mockwebserver or another library.
+12. We can also do unit test for network behaviour. We could use Mockery or mockwebserver or another library. We can also use interceptors to mock the return values from the web service calls ( I use this as a quick way to test test-data , mocking return values from the web call).
 13. I used butterknife for convenience, which is then converted into an index, again due to time constraints. I would have preferred to use 2D array to represent the positions.
 14. There may be some functions that I have kept, but are unused ( currently ). Due to time constraints, otherwise, I may refactor the interface, MainScreenContract.
 15. Again, due to time constraints, otherwise I would have revisited the UI aspect ( eg use icons for the X and O).
